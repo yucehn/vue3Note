@@ -7,6 +7,9 @@
 // import './02_繼承'
 // import './03_多態'
 // import './04_修飾符'
-import './05_readonly修飾符'
+// import './05_readonly修飾符'
+// import './06_存取器'
+// import './07_靜態成員'
+import './08_抽象類'
 
 document.write('Hello Webpack TS!')
