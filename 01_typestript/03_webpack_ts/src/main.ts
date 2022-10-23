@@ -1,6 +1,4 @@
-// import './01_函數'
-// import './02_可選參數與默認參數'
-// import './03_剩餘參數'
-import './04_函數重載'
+// import './01_泛型'
+import './02_多個泛型參數的函數'
 
 document.write('Hello Webpack TS!')
